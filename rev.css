@@ -1,0 +1,56 @@
+body {
+    background-color: aqua;
+}   
+.a{
+    border: 10px solid palevioletred;
+    font-size: medium;
+    padding: 30px;
+    margin: 60px;
+}
+#o:link{
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+#o:visited{
+    color: pink;
+    background-color: transparent;
+    text-decoration: none;
+}
+#o:hover{
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+}
+#o:active{
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
+table,th,td{
+    border: 1px solid blue;
+    text-align: center;
+   /* border-collapse: collapse;*/
+    padding: 10px;
+    margin: 30px;
+}
+table{
+    border-spacing: 15px;
+}
+.city {
+    background-color: tomato;
+    color: white;
+    padding: 10px;
+    text-align:left;
+  } 
+  
+.main {
+    text-align: center;
+  }
+  aside{
+      width: 30%;
+      padding-left: 15px;
+      margin-left: 15px;
+      float: right;
+  }
+  
